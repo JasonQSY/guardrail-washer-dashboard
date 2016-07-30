@@ -9,9 +9,9 @@ The project aims to make a machine that can clean the highway guardrail automati
 - Location (by GPS module)
 - Specific data with graph (unused finally)
 
-## Packages
+## Dependencies
 
-The website does not have a complete back-end. It is actually front-end project for demonstration. Hence, I use `bower` to deal with all the required packages. 
+The website does not have an implemented back-end. It is actually front-end project for demonstration. Hence, I use `bower` to deal with all the dependencies.
 
 To install all the required packages, run
 ```
